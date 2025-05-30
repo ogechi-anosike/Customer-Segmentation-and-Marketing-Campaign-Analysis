@@ -15,7 +15,7 @@ This project analyzes customer demographic and transaction data to uncover purch
 |-----------|-------------|
 | `customer_analysis_cleaned - marketing_campaign.csv` | The cleaned dataset used in this project. Includes customer demographics, purchase history, and campaign response data. |
 | `customer_analysis_segmentation.ipynb` | A Python notebook containing the full data cleaning process, K-Means clustering, feature engineering, and cluster profiling. |
-| `Customer Analysis .twbx` | A Tableau workbook that includes interactive dashboards for segmentation, purchasing behavior, and marketing performance analysis. |
+| `Customer Analysis .twb` | A Tableau workbook that includes interactive dashboards for segmentation, purchasing behavior, and marketing performance analysis. |
 | `Customer Segmentation & Marketing Campaign Analysis.pdf` | Final project presentation with visualizations, key insights, and strategic recommendations for stakeholders. |
 
 ## 🧰 Tools & Technologies
